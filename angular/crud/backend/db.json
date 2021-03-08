@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Preta",
+      "price": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Régua",
+      "price": 2.5
+    },
+    {
+      "id": 3,
+      "name": "Borracha",
+      "price": 3.05
+    },
+    {
+      "name": "Form",
+      "price": "1500.55",
+      "id": 4
+    }
+  ]
+}
