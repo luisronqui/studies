@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Preta",
-      "price": 4.5
+      "name": "Caneta Preta BIC",
+      "price": "1.5"
     },
     {
       "id": 2,
@@ -16,9 +16,14 @@
       "price": 3.05
     },
     {
-      "name": "Form",
-      "price": "1500.55",
+      "name": "new",
+      "price": "123456",
       "id": 4
+    },
+    {
+      "name": "teste",
+      "price": "0123",
+      "id": 5
     }
   ]
 }
